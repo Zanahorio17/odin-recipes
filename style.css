@@ -1,0 +1,14 @@
+h1, h2, h3, h4{
+    color: rgb(128, 128, 128);
+}
+
+ul, ol{
+    color:rgb(75, 75, 75);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+img{
+    height: auto;
+    width: 610px;
+}
