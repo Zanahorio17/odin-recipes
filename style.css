@@ -1,3 +1,6 @@
+h1 {
+    text-align: center;
+}
 h1, h2, h3, h4{
     color: rgb(128, 128, 128);
 }
@@ -9,6 +12,54 @@ ul, ol{
 }
 
 img{
+    display: block;
+    margin: auto;
     height: auto;
     width: 610px;
+}
+
+.intro{
+    padding: 36px;
+    padding-bottom: 0px;
+}
+
+
+
+.intro h2{
+    text-align: center;
+}
+
+.intro p{
+    color:rgb(75, 75, 75);
+    font-size: 20px;
+}
+
+.Ingredientes{
+    padding: 36px;
+    padding-top: 0px;
+}
+
+.Pasos{
+    padding: 36px;
+}
+
+.Preparacion{
+    padding: 36px;
+}
+
+.Pescado{
+    padding: 36px;
+}
+
+.Salsa{
+    padding: 36px;
+
+}
+
+.Ingredientes ul{
+    border: 24px;
+}
+
+.Ingredientes h4, .Pescado h4, .Salsa h4{
+    padding: 24px;
 }
